@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # open original file and new file
 original = open("words.csv", "r")
 reversed_csv = open("reversed.csv", "w")
