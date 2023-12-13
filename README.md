@@ -18,3 +18,6 @@ chmod +x flipterms.py
 If you want to contribute, please add words to the csv file and submit a pull request. If you don't know how to do that, you can also just open an issue and I'll add the words for you.
 
 ## ਧੰਨਵਾਦ!
+
+## To-Do
+Incorporate Shahmukhi as well
